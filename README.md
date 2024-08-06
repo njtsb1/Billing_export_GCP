@@ -8,4 +8,3 @@ Learning how to create the organization's export process from your invoice to Bi
 ![Billing_export_Google_Cloud](/Billing_export_Google_Cloud.png)
 
 [LICENSE](/LICENSE)
-# Billing_export_GCP
